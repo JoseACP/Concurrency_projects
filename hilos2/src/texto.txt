@@ -1,0 +1,1 @@
+Server not respondingRead errorBusy portServer not respondingRead errorRead errorBusy portPort not reachableInvalid pathPort not reachableBusy portFile does not existRead errorServer not respondingMemory errorRead errorWrite errorWrite errorRead errorFile does not existFile does not existMemory error
